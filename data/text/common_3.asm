@@ -26,7 +26,7 @@ _OakText7::
 	cont "Go home."
 	cont "This should crash"
 	cont "the game, I hope"
-	db CREDITS_THEEND
+	text_ram _OakText1
 	prompt
 
 _ClockTimeMayBeWrongText::
