@@ -21,9 +21,13 @@ _OakText7::
 	para "with BEYTAH"
 	line "awaits! Let's go!"
 
-	para "I'll be seeing you"
-	line "later!"
-	done
+	para "Just kidding."
+	line "Leaks are dead."
+	cont "Go home."
+	cont "This should crash"
+	cont "the game, I hope"
+	db CREDITS_THEEND
+	prompt
 
 _ClockTimeMayBeWrongText::
 	text "The clock's time"

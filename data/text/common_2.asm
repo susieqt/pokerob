@@ -1543,7 +1543,7 @@ _OakText2::
 	text "This world is in-"
 	line "habited by crea-"
 	cont "tures that we call"
-	cont "BETAMON.@"
+	cont "PEDOPHILES.@"
 	text_end
 
 _OakText3::
@@ -1553,21 +1553,21 @@ _OakText3::
 	text_end ; unreferenced
 
 _OakText4::
-	text "People and BETAMON"
+	text "MODS and PEDOS"
 	line "live together by"
 
-	para "looking for new"
-	line "BEYTAH."
+	para "bullying ROB"
+	line "in /PPG/."
 
-	para "Some people play"
-	line "with BETAMON, some"
-	cont "want to fuck them."
+	para "Actually, they're"
+	line "exactly the"
+	cont "same thing."
 	prompt
 
 _OakText5::
-	text "But we don't know"
+	text "We don't know"
 	line "everything about"
-	cont "BETAMON yet."
+	cont "BEYTAH yet."
 
 	para "There are still"
 	line "many GIGALEAKS to"
