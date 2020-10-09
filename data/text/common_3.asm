@@ -8,17 +8,17 @@ _OakText7::
 	line "ready?"
 
 	para "Your very own"
-	line "#MON story is"
+	line "BETAMON story is"
 	cont "about to unfold."
 
-	para "You'll face fun"
-	line "times and tough"
-	cont "challenges."
+	para "You'll face mod"
+	line "discrimination"
+	cont "and challenges."
 
-	para "A world of dreams"
-	line "and adventures"
+	para "A world of feet"
+	line "and pussies"
 
-	para "with #MON"
+	para "with BEYTAH"
 	line "awaits! Let's go!"
 
 	para "I'll be seeing you"

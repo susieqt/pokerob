@@ -1171,7 +1171,7 @@ _PokecenterPlayersPCText::
 	prompt
 
 _PokecenterOaksPCText::
-	text "PROF.OAK's PC"
+	text "DR.LAVA's PC"
 	line "accessed."
 
 	para "#DEX Rating"
@@ -1200,7 +1200,7 @@ _OakPCText3::
 	text_ram wStringBuffer4
 	text " #MON owned"
 
-	para "PROF.OAK's"
+	para "DR.LAVA's"
 	line "Rating:"
 	done
 
@@ -1411,9 +1411,9 @@ _ItemsTooImportantText::
 	prompt
 
 _ItemsOakWarningText::
-	text "OAK: <PLAYER>!"
-	line "This isn't the"
-	cont "time to use that!"
+	text "VASH: <PLAYER>!"
+	line "You're going to"
+	cont "get banned!"
 	done
 
 _PokemonSwapItemText::
@@ -1529,19 +1529,21 @@ _OakText1::
 	line "keep you waiting!"
 
 	para "Welcome to the"
-	line "world of #MON!"
+	line "world of /PPG/!"
 
-	para "My name is OAK."
+	para "My name is DR.LAVA."
 
 	para "People call me the"
-	line "#MON PROF."
+	line "GUY WHO STEALS"
+	cont "CONTENT FROM PPG"
+	cont "FOR TWITTER CLOUT."
 	prompt
 
 _OakText2::
 	text "This world is in-"
 	line "habited by crea-"
 	cont "tures that we call"
-	cont "#MON.@"
+	cont "BETAMON.@"
 	text_end
 
 _OakText3::
@@ -1551,26 +1553,26 @@ _OakText3::
 	text_end ; unreferenced
 
 _OakText4::
-	text "People and #MON"
+	text "People and BETAMON"
 	line "live together by"
 
-	para "supporting each"
-	line "other."
+	para "looking for new"
+	line "BEYTAH."
 
 	para "Some people play"
-	line "with #MON, some"
-	cont "battle with them."
+	line "with BETAMON, some"
+	cont "want to fuck them."
 	prompt
 
 _OakText5::
 	text "But we don't know"
 	line "everything about"
-	cont "#MON yet."
+	cont "BETAMON yet."
 
 	para "There are still"
-	line "many mysteries to"
-	cont "solve."
+	line "many GIGALEAKS to"
+	cont "happen."
 
-	para "That's why I study"
-	line "#MON every day."
+	para "That's why I post"
+	line "FOOTPUSSY in chat."
 	prompt
