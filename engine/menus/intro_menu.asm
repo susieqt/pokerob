@@ -707,7 +707,7 @@ OakSpeech:
 	call NamePlayer
 	ld hl, OakText7
 	call PrintText
-	farcall Credits ;ret
+	ret
 
 OakText1:
 	text_far _OakText1
